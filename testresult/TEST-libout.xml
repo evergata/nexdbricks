@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.009" timestamp="2020-11-18T19:39:57.886274" hostname="xps"><testcase classname="Libraries.python.dbxdemo.testone" name="test_mytest" time="0.000" /></testsuite></testsuites>
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="0" time="0.002" timestamp="2020-11-19T08:28:53.802329" hostname="xps" /></testsuites>
